@@ -1,0 +1,16 @@
+# requirements.txt
+huggingface_hub 
+streamlit>=1.28
+transformers
+langchain>=0.1.0
+openai>=1.0
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+langchain 
+langchain-community>=0.1.0
+langchain_experimental
+langchain-openai
+tabulate
+plotly
+together
